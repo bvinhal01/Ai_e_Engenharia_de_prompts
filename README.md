@@ -55,9 +55,9 @@ Nesta seção, documento os testes realizados no NotebookLM para extrair o melho
 
 ### Resumos Estruturados
 
-*   **Machine Learning (ML) vs. IA Generativa:** Enquanto o ML tradicional foca em analisar dados para prever resultados (ex: classificar um e-mail como spam), a IA Generativa utiliza redes neurais profundas para criar *novos* conteúdos (textos, imagens, código) a partir de padrões aprendidos.
+*   **Machine Learning (ML) vs. IA Generativa:** Enquanto o ML tradicional foca em analisar dados para prever resultados a IA Generativa utiliza redes neurais profundas para criar *novos* conteúdos (textos, imagens, código) a partir de padrões aprendidos.
 *   **LLMs (Large Language Models):** São modelos treinados em vastas quantidades de texto. Eles não "pensam", mas calculam a probabilidade da próxima palavra com base no contexto (Prompt) fornecido.
-*   **O Ciclo do Prompt Eficaz:** Um bom prompt deve conter: **Contexto** (Quem a IA deve ser), **Instrução** (O que ela deve fazer), **Dados de Entrada** (Informações base) e **Formato de Saída** (Como a resposta deve ser apresentada).
+*   **O Ciclo do Prompt Eficaz:** Um bom prompt deve conter: **Um Contexto** (Quem a IA deve ser), **A Instrução** (O que ela deve fazer), **Dados de Entrada** (Informações base) e **Formato de Saída** (Como a resposta deve ser apresentada).
 
 ---
 
@@ -76,7 +76,7 @@ Nesta seção, documento os testes realizados no NotebookLM para extrair o melho
 > "Atue como um revisor sênior. Avalie o texto/código abaixo e aponte 3 melhorias com base em clareza, eficiência e boas práticas. Forneça a versão corrigida ao final."
 
 **2. Explicação de Conceitos Complexos (Técnica de Feynman):**
-> "Explique o conceito de [INSERIR TEMA, ex: Embeddings] como se eu tivesse 10 anos de idade. Use analogias do dia a dia e evite jargões técnicos excessivos."
+> "Explique o conceito de Bubble Sort como se eu tivesse 10 anos de idade. Use analogias do dia a dia e evite jargões técnicos excessivos."
 
 ---
-*Desenvolvido com dedicação durante o Bootcamp Bradesco na DIO.* 🚀
+*Desenvolvido durante o Bootcamp Bradesco na DIO.* 🚀
