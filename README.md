@@ -79,4 +79,4 @@ Nesta seção, documento os testes realizados no NotebookLM para extrair o melho
 > "Explique o conceito de Bubble Sort como se eu tivesse 10 anos de idade. Use analogias do dia a dia e evite jargões técnicos excessivos."
 
 ---
-*Desenvolvido durante o Bootcamp Bradesco na DIO.* 🚀
+*Desenvolvido durante o Bootcamp Bradesco na DIO.*
